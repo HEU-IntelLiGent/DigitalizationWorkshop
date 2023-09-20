@@ -1,6 +1,7 @@
 # DigitalizationWorkshop
-A repository for the IntelLiGent Digitalization Workshop at Oxford University on 2023-09-20
-![Digitalization-Spongebob](/img/digital-spongebob.png)
+A repository for the IntelLiGent Digitalization Workshop at Oxford University on 2023-09-20  
+<img src="/img/digital-spongebob.png" width="50%"/>
+
 
 
 ## Data Session (09:00 - 12:00)
